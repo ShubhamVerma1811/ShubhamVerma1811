@@ -22,9 +22,20 @@
 
 ### **You can reach me on:**
 
-<a href="https://github.com/ShubhamVerma1811"><img height="40" src="./assets/gh.svg" />
-<a href="https://instagram.com/shubham.verma.me"><img height="40" src="./assets/insta.svg" />
-<a href="https://linkedin.com/in/ShubhamVerma1811"><img height="40" src="./assets/in.svg" />
-<a href="mailto:imshubhamverma.sv@gmail.com"><img height="40" src="./assets/gmail.svg" />
+<a href="https://github.com/ShubhamVerma1811">
+<img src="https://img.icons8.com/fluent/50/000000/github.png"/>
+</a>
+<a href="https://instagram.com/shubham.verma.me">
+<img src="https://img.icons8.com/fluent/50/000000/instagram-new.png"/>
+</a>
+<a href="https://linkedin.com/in/ShubhamVerma1811">
+<img src="https://img.icons8.com/color/50/000000/linkedin.png"/>
+</a>
+<a href="mailto:imshubhamverma.sv@gmail.com">
+<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+</a>
+
+<br>
+<br>
 
 [![Shubham Verma's github stats](https://github-readme-stats.vercel.app/api?username=shubhamverma1811)](https://github.com/shubhamverma1811/)
