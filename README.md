@@ -11,13 +11,13 @@
 
 <br>
 
-<code><img height="40" src="./assets/html.svg"></code>
-<code><img height="40" src="./assets/css.svg"></code>
-<code><img height="40" src="./assets/sass.svg"></code>
-<code><img height="40" src="./assets/js.svg"></code>
-<code><img height="40" src="./assets/react.svg"></code>
-<code><img height="40" src="./assets/vue.svg"></code>
-<code><img height="40" src="./assets/py.svg"></code>
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/sass.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
 <br>
 
 ### **You can reach me on:**
