@@ -39,3 +39,4 @@
 <br>
 
 [![Shubham Verma's github stats](https://github-readme-stats.vercel.app/api?username=shubhamverma1811)](https://github.com/shubhamverma1811/)
+![Visitor Count](https://profile-counter.glitch.me/shubhamverma1811/count.svg)
