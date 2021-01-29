@@ -70,7 +70,7 @@
 <img src=https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 
 </a>
-<a href="https:blogs.shubhamverma.me" target="_blank">
+<a href="https://blogs.shubhamverma.me" target="_blank">
 <img src=https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 
 </a>
