@@ -13,11 +13,11 @@
 ### **Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Change font of your HashNode blog](https://blogs.shubhamverma.me/change-font-of-your-hashnode-blog)
 - [Search a User's Hashnode blogs right from your VSCode!](https://blogs.shubhamverma.me/search-a-users-hashnode-blogs-right-from-your-vscode)
 - [Implement Protected Routes in NextJS](https://blogs.shubhamverma.me/implement-protected-routes-in-nextjs)
 - [Tweeter - A Twitter clone made using React + Firebase](https://blogs.shubhamverma.me/tweeter-a-twitter-clone-made-using-react-firebase)
 - [Basic JavaScript: Data Types](https://blogs.shubhamverma.me/basic-javascript-data-types)
-- [Basic JavaScript: Variables](https://blogs.shubhamverma.me/basic-javascript-variables)
 <!-- BLOG-POST-LIST:END -->
 
 ---
