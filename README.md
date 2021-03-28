@@ -10,7 +10,7 @@
 
 ---
 
-[![Spotify](https://spot-right-now.vercel.app/api/spotify)](https://open.spotify.com/user/shubhamverma18)
+[![Spotify](https://spot-right-now.vercel.app/api/spotify)](https://open.spotify.com/user/shubhamverma1811)
 
 ---
 
