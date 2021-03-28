@@ -2,11 +2,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamverma1811" alt="shubhamverma1811" /> </p>
 
-## A passionate self-taught FrontEnd Developer from India.
+## A passionate self-taught Frontend Developer from India.
 
 - 💬 Ask me about **JavaScript, React**
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I can solve Rubik's Cube in under 2 minutes 😎
+
+---
+
+[![Spotify](https://spot-right-now.vercel.app/api/spotify)](https://open.spotify.com/user/shubhamverma18)
 
 ---
 
