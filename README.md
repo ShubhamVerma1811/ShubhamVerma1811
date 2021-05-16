@@ -5,6 +5,7 @@
 ## A passionate self-taught Frontend Developer from India.
 
 - 💬 Ask me about **JavaScript, React**
+- 🎋 Currently Builiding **[CadabraUI](https://cadabraui.vercel.app)**
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I can solve Rubik's Cube in under 2 minutes 😎
 
