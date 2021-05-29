@@ -10,23 +10,6 @@
 - ⚡ Fun fact: I can solve Rubik's Cube in under 2 minutes 😎
 
 ---
-
-[![Spotify](https://spot-right-now.vercel.app/api/spotify)](https://open.spotify.com/user/shubhamverma1811)
-
----
-
-### **Blog posts**
-
-<!-- BLOG-POST-LIST:START -->
-- [Let's Polyfill - map(), filter() and reduce()](https://blogs.shubhamverma.me/lets-polyfill-map-filter-and-reduce)
-- [Change font of your HashNode blog](https://blogs.shubhamverma.me/change-font-of-your-hashnode-blog)
-- [Search a User's Hashnode blogs right from your VSCode!](https://blogs.shubhamverma.me/search-a-users-hashnode-blogs-right-from-your-vscode)
-- [Implement Protected Routes in NextJS](https://blogs.shubhamverma.me/implement-protected-routes-in-nextjs)
-- [Tweeter - A Twitter clone made using React + Firebase](https://blogs.shubhamverma.me/tweeter-a-twitter-clone-made-using-react-firebase)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### **Languages and Tools:**
 
 <br>
@@ -52,6 +35,22 @@
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
+
+---
+
+### **Blog posts**
+
+<!-- BLOG-POST-LIST:START -->
+- [Let's Polyfill - map(), filter() and reduce()](https://blogs.shubhamverma.me/lets-polyfill-map-filter-and-reduce)
+- [Change font of your HashNode blog](https://blogs.shubhamverma.me/change-font-of-your-hashnode-blog)
+- [Search a User's Hashnode blogs right from your VSCode!](https://blogs.shubhamverma.me/search-a-users-hashnode-blogs-right-from-your-vscode)
+- [Implement Protected Routes in NextJS](https://blogs.shubhamverma.me/implement-protected-routes-in-nextjs)
+- [Tweeter - A Twitter clone made using React + Firebase](https://blogs.shubhamverma.me/tweeter-a-twitter-clone-made-using-react-firebase)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+[![Spotify](https://spot-right-now.vercel.app/api/spotify)](https://open.spotify.com/user/shubhamverma1811)
 
 ---
 
