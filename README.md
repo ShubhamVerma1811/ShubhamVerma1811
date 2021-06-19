@@ -41,11 +41,11 @@
 ### **Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [DuckDuckGo - The Search Engine for the Developers](https://blogs.shubhamverma.me/duckduckgo-the-search-engine-for-the-developers)
 - [Let's Polyfill - map(), filter() and reduce()](https://blogs.shubhamverma.me/lets-polyfill-map-filter-and-reduce)
 - [Change font of your HashNode blog](https://blogs.shubhamverma.me/change-font-of-your-hashnode-blog)
 - [Search a User's Hashnode blogs right from your VSCode!](https://blogs.shubhamverma.me/search-a-users-hashnode-blogs-right-from-your-vscode)
 - [Implement Protected Routes in NextJS](https://blogs.shubhamverma.me/implement-protected-routes-in-nextjs)
-- [Tweeter - A Twitter clone made using React + Firebase](https://blogs.shubhamverma.me/tweeter-a-twitter-clone-made-using-react-firebase)
 <!-- BLOG-POST-LIST:END -->
 
 ---
