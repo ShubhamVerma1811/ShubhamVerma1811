@@ -41,11 +41,11 @@
 ### **Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Technical Aspects of Bytes 🎉](https://blogs.shubhamverma.me/technical-aspects-of-bytes)
 - [Introducing Bytes 🎉 - A platform to share bite-sized learnings!](https://blogs.shubhamverma.me/introducing-bytes-a-platform-to-share-bite-sized-learnings)
 - [DuckDuckGo - The Search Engine for the Developers](https://blogs.shubhamverma.me/duckduckgo-the-search-engine-for-the-developers)
 - [Let's Polyfill - map(), filter() and reduce()](https://blogs.shubhamverma.me/lets-polyfill-map-filter-and-reduce)
 - [Change font of your HashNode blog](https://blogs.shubhamverma.me/change-font-of-your-hashnode-blog)
-- [Search a User's Hashnode blogs right from your VSCode!](https://blogs.shubhamverma.me/search-a-users-hashnode-blogs-right-from-your-vscode)
 <!-- BLOG-POST-LIST:END -->
 
 ---
