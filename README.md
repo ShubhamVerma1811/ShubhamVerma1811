@@ -42,6 +42,11 @@
 <a href="https://blogs.shubhamverma.me" target="_blank">
 <img src=https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
+
+<a href="https://open.spotify.com/user/shubhamverma1811?si=54303b68c2c94c8c" target="_blank">
+<img src=https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white alt=spotify style="margin-bottom: 5px;" />
+</a>
+
 </div>
 
 ---
@@ -101,6 +106,7 @@ alt="HTML"
 ## **Recent Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+
 - [I couldn't find a technical tags API, So I made one!🎊](https://blogs.shubhamverma.me/i-couldnt-find-a-technical-tags-api-so-i-made-one)
 - [The easiest way to write Markdown in NextJS!!](https://blogs.shubhamverma.me/the-easiest-way-to-write-markdown-in-nextjs)
 - [Technical Aspects of Bytes 🎉](https://blogs.shubhamverma.me/technical-aspects-of-bytes)
@@ -110,9 +116,9 @@ alt="HTML"
 
 ---
 
-## **Current Spotify Listenting**
+## **Current Spotify Listenting** (Click to see stats!)
 
-[![Spotify](https://spot-right-now.vercel.app/api/spotify)](https://open.spotify.com/user/shubhamverma1811)
+[![Spotify](https://spot-right-now.vercel.app/api/spotify)](https://spotify-top.com/user/shubhamverma1811)
 
 ---
 
