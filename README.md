@@ -106,7 +106,6 @@ alt="HTML"
 ## **Recent Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
-
 - [I couldn't find a technical tags API, So I made one!🎊](https://blogs.shubhamverma.me/i-couldnt-find-a-technical-tags-api-so-i-made-one)
 - [The easiest way to write Markdown in NextJS!!](https://blogs.shubhamverma.me/the-easiest-way-to-write-markdown-in-nextjs)
 - [Technical Aspects of Bytes 🎉](https://blogs.shubhamverma.me/technical-aspects-of-bytes)
