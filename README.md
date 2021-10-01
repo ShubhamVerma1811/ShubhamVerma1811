@@ -6,7 +6,6 @@
 
 - 💻 Currently I am Software Engineer at GeekyAnts
 - 💬 Ask me about **JavaScript, React**
-- 🎋 Currently Builiding **[CadabraUI](https://cadabraui.vercel.app)** and **[Bytes](https://bytes.vercel.app)**
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I can solve Rubik's Cube in under 2 minutes 😎
 
