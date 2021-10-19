@@ -105,11 +105,11 @@ alt="HTML"
 ## **Recent Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [I couldn't find a technical tags API, So I made one!🎊](https://blogs.shubhamverma.me/i-couldnt-find-a-technical-tags-api-so-i-made-one)
 - [The easiest way to write Markdown in NextJS!!](https://blogs.shubhamverma.me/the-easiest-way-to-write-markdown-in-nextjs)
 - [Technical Aspects of Bytes 🎉](https://blogs.shubhamverma.me/technical-aspects-of-bytes)
 - [Introducing Bytes 🎉 - A platform to share bite-sized learnings!](https://blogs.shubhamverma.me/introducing-bytes-a-platform-to-share-bite-sized-learnings)
 - [DuckDuckGo - The Search Engine for the Developers](https://blogs.shubhamverma.me/duckduckgo-the-search-engine-for-the-developers)
+- [Let's Polyfill - map(), filter() and reduce()](https://blogs.shubhamverma.me/lets-polyfill-map-filter-and-reduce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
