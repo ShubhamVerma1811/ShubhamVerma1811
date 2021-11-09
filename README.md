@@ -109,7 +109,7 @@ alt="HTML"
 - [Technical Aspects of Bytes 🎉](https://blogs.shubhamverma.me/technical-aspects-of-bytes)
 - [Introducing Bytes 🎉 - A platform to share bite-sized learnings!](https://blogs.shubhamverma.me/introducing-bytes-a-platform-to-share-bite-sized-learnings)
 - [DuckDuckGo - The Search Engine for the Developers](https://blogs.shubhamverma.me/duckduckgo-the-search-engine-for-the-developers)
-- [Let's Polyfill - map(), filter() and reduce()](https://blogs.shubhamverma.me/lets-polyfill-map-filter-and-reduce)
+- [Let&#39;s Polyfill - map&lpar;&rpar;, filter&lpar;&rpar; and reduce&lpar;&rpar;](https://blogs.shubhamverma.me/lets-polyfill-map-filter-and-reduce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
