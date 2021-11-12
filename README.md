@@ -1,5 +1,6 @@
 # Hi there, I'm [Shubham Verma!](https://shubhamverma.me) 👋
 
+<img width="100%" alt="Screenshot 2021-11-12 at 18 12 40" src="https://user-images.githubusercontent.com/25576658/141486959-c58ea278-86bc-4106-a248-27a3af6ebedf.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamverma1811" alt="shubhamverma1811" /> </p>
 
 ## A passionate self-taught Frontend Developer from India.
