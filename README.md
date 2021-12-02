@@ -15,7 +15,7 @@
 ## **Connect with me**
 
 <div align="left">
-<a href="https://twitter.com/verma__shubham" target="_blank">
+<a href="https://shbm.fyi/tw" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
@@ -23,27 +23,27 @@
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://github.com/ShubhamVerma1811" target="_blank">
+<a href="https://shbm.fyi/gh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://linkedin.com/in/shubhamverma1811" target="_blank">
+<a href="https://shbm.fyi/lh" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://dev.to/shubhamverma18" target="_blank">
+<a href="https://shbm.fyi/devto" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://instagram.com/shubham.verma.me" target="_blank">
+<a href="https://shbm.fyi/ig" target="_blank">
 <img src=https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://blogs.shubhamverma.me" target="_blank">
+<a href="https://shbm.fyi/blog" target="_blank">
 <img src=https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://open.spotify.com/user/shubhamverma1811?si=54303b68c2c94c8c" target="_blank">
+<a href="https://shbm.fyi/sp" target="_blank">
 <img src=https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white alt=spotify style="margin-bottom: 5px;" />
 </a>
 
