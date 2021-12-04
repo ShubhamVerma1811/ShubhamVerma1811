@@ -106,11 +106,11 @@ alt="HTML"
 ## **Recent Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [VSCode Extension that enable symbols and outlines support for your React files!](https://blogs.shubhamverma.me/vscode-extension-that-enable-symbols-and-outlines-support-for-your-react-files)
 - [The easiest way to write Markdown in NextJS!!](https://blogs.shubhamverma.me/the-easiest-way-to-write-markdown-in-nextjs)
 - [Technical Aspects of Bytes 🎉](https://blogs.shubhamverma.me/technical-aspects-of-bytes)
 - [Introducing Bytes 🎉 - A platform to share bite-sized learnings!](https://blogs.shubhamverma.me/introducing-bytes-a-platform-to-share-bite-sized-learnings)
 - [DuckDuckGo - The Search Engine for the Developers](https://blogs.shubhamverma.me/duckduckgo-the-search-engine-for-the-developers)
-- [Let&#39;s Polyfill - map&lpar;&rpar;, filter&lpar;&rpar; and reduce&lpar;&rpar;](https://blogs.shubhamverma.me/lets-polyfill-map-filter-and-reduce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
