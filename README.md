@@ -106,11 +106,11 @@ alt="HTML"
 ## **Recent Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [VSCode Extension that enable symbols and outlines support for your React files!](https://blogs.shubhamverma.me/vscode-extension-that-enable-symbols-and-outlines-support-for-your-react-files)
-- [The easiest way to write Markdown in NextJS!!](https://blogs.shubhamverma.me/the-easiest-way-to-write-markdown-in-nextjs)
-- [Technical Aspects of Bytes 🎉](https://blogs.shubhamverma.me/technical-aspects-of-bytes)
-- [Introducing Bytes 🎉 - A platform to share bite-sized learnings!](https://blogs.shubhamverma.me/introducing-bytes-a-platform-to-share-bite-sized-learnings)
-- [DuckDuckGo - The Search Engine for the Developers](https://blogs.shubhamverma.me/duckduckgo-the-search-engine-for-the-developers)
+- [Creating dynamic Open Graph images for your blogs!](https://shubhamverma.me/blog/creating-dynamic-open-graph-images-for-your-blogs)
+- [Let&#39;s add a Command Palette on our website](https://shubhamverma.me/blog/lets-add-a-command-palette-on-our-web)
+- [Setup Tailwind CSS with Turborepo!](https://shubhamverma.me/blog/setup-tailwind-css-with-turborepo)
+- [Enable outlines and symbols support for React in VSCode!](https://shubhamverma.me/blog/vs-code-extension-that-enable-symbols-and-outlines-support-for-your-react-files)
+- [Write Markdown In NextJS](https://shubhamverma.me/blog/write-markdown-in-next-js)
 <!-- BLOG-POST-LIST:END -->
 
 ---
