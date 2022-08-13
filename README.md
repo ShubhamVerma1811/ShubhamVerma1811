@@ -15,11 +15,11 @@
 ## **Recent Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Server Side Rendering of Tailwind CSS styles in NextJS](https://shubhamverma.me/blog/server-side-rendering-of-tailwind-css-styles-in-next-js)
 - [Authentication and Protected Routes using Remix + Auth0 + Prisma](https://shubhamverma.me/blog/authentication-and-protected-routes-with-remix-auth-0-and-prisma)
 - [Creating Dynamic Open Graph images for your blogs!](https://shubhamverma.me/blog/creating-dynamic-open-graph-images-for-your-blogs)
 - [Let&#39;s add a Command Palette on our website](https://shubhamverma.me/blog/lets-add-a-command-palette-on-our-web)
 - [Setup Tailwind CSS with Turborepo!](https://shubhamverma.me/blog/setup-tailwind-css-with-turborepo)
-- [Enable outlines and symbols support for React in VSCode!](https://shubhamverma.me/blog/vs-code-extension-that-enable-symbols-and-outlines-support-for-your-react-files)
 <!-- BLOG-POST-LIST:END -->
 
 ---
