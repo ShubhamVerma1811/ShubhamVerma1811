@@ -15,7 +15,7 @@
 ## **Recent Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Test](https://shubhamverma.me/blog/test)
+- [Resizing Images in Markdown and using it in Next.JS with Image Component.](https://shubhamverma.me/blog/resizing-images-in-markdown-and-using-it-in-next-js-with-image-component)
 - [Server Side Rendering of Tailwind CSS styles in NextJS](https://shubhamverma.me/blog/server-side-rendering-of-tailwind-css-styles-in-next-js)
 - [Authentication and Protected Routes using Remix + Auth0 + Prisma](https://shubhamverma.me/blog/authentication-and-protected-routes-with-remix-auth-0-and-prisma)
 - [Creating Dynamic Open Graph images for your blogs!](https://shubhamverma.me/blog/creating-dynamic-open-graph-images-for-your-blogs)
