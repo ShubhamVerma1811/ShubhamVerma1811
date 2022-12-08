@@ -1,7 +1,9 @@
 # Hi there, I'm [Shubham Verma!](https://shubhamverma.me) 👋
 
-<img width="100%" alt="Screenshot 2021-11-12 at 18 12 40" src="https://user-images.githubusercontent.com/25576658/141486959-c58ea278-86bc-4106-a248-27a3af6ebedf.png">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamverma1811" alt="shubhamverma1811" /> </p>
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=shubhamverma1811&style=for-the-badge" alt="shubhamverma1811" />
+</p>
 
 ## A passionate self-taught Frontend Developer from India.
 
@@ -27,37 +29,15 @@
 ## **Connect with me**
 
 <div align="left">
-<a href="https://shbm.fyi/tw" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  <a href="https://shbm.fyi/tw" target="_blank">
+  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
-<a href="mailto:hi@shubhamverma.me" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://shbm.fyi/gh" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 
 <a href="https://shbm.fyi/lh" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://shbm.fyi/devto" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://shbm.fyi/ig" target="_blank">
-<img src=https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://shbm.fyi/blog" target="_blank">
-<img src=https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://shbm.fyi/sp" target="_blank">
-<img src=https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white alt=spotify style="margin-bottom: 5px;" />
-</a>
 
 </div>
 
@@ -115,18 +95,8 @@ alt="HTML"
 
 ---
 
-
-
-## **Current Spotify Listenting** (Click to see stats!)
-
-[![Spotify](https://spot-right-now.vercel.app/api/spotify)](https://spotify-top.com/user/shubhamverma1811)
-
----
-
 ## **Programming and Github Stats**
 
 [![Shubham Verma's github stats](https://github-readme-stats.vercel.app/api?username=shubhamverma1811&theme=radical)](https://github.com/shubhamverma1811/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamverma1811&layout=compact&theme=radical)](https://github.com/shubhamverma1811)
-<br>
 
 ---
