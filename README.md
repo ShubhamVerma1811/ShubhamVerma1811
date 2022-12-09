@@ -1,5 +1,4 @@
-# Hi there, I'm [Shubham Verma!](https://shubhamverma.me) 👋
-
+# Hey there, I'm [Shubham Verma!](https://shubhamverma.me) 👋
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=shubhamverma1811&style=for-the-badge" alt="shubhamverma1811" />
@@ -7,7 +6,7 @@
 
 ## A passionate self-taught Frontend Developer from India.
 
-- 💻 Currently I am Software Engineer at GeekyAnts
+- 💻 Currently I am Software Engineer - III at GeekyAnts
 - 💬 Ask me about **JavaScript, React**
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I can solve Rubik's Cube in under 2 minutes 😎
@@ -28,18 +27,9 @@
 
 ## **Connect with me**
 
-<div align="left">
-  <a href="https://shbm.fyi/tw" target="_blank">
-  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-
-
-<a href="https://shbm.fyi/lh" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-
-</div>
+- [Twitter](https://shbm.fyi/tw)
+- [LinkedIn](https://shbm.fyi/li)
+- [Cal.com](https://shbm.fyi/cal)
 
 ---
 
