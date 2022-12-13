@@ -26,10 +26,7 @@
 ---
 
 ## **Connect with me**
-
-- [Twitter](https://shbm.fyi/tw)
-- [LinkedIn](https://shbm.fyi/li)
-- [Cal.com](https://shbm.fyi/cal)
+ [Twitter](https://shbm.fyi/tw) | [LinkedIn](https://shbm.fyi/li) | [Cal.com](https://shbm.fyi/cal)
 
 ---
 
@@ -85,8 +82,3 @@ alt="HTML"
 
 ---
 
-## **Programming and Github Stats**
-
-[![Shubham Verma's github stats](https://github-readme-stats.vercel.app/api?username=shubhamverma1811&theme=radical)](https://github.com/shubhamverma1811/)
-
----
