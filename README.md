@@ -1,9 +1,5 @@
 # Hey there, I'm [Shubham Verma!](https://shubhamverma.me) 👋
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=shubhamverma1811&style=for-the-badge" alt="shubhamverma1811" />
-</p>
-
 ## A passionate self-taught Frontend Developer from India.
 
 - 💻 Currently I am Software Engineer - III at GeekyAnts
