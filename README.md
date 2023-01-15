@@ -7,7 +7,6 @@
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I can solve Rubik's Cube in under 2 minutes 😎
 
----
 
 ## **Recent Blog posts**
 
@@ -19,12 +18,10 @@
 - [Let&#39;s add a Command Palette on our website](https://shubhamverma.me/blog/lets-add-a-command-palette-on-our-web)
 <!-- BLOG-POST-LIST:END -->
 
----
 
 ## **Connect with me**
  [Twitter](https://shbm.fyi/tw) | [LinkedIn](https://shbm.fyi/li) | [Cal.com](https://shbm.fyi/cal)
 
----
 
 ## **Languages and Tools:**
 
@@ -76,5 +73,4 @@ alt="HTML"
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgresSQL"/>
 </p>
 
----
 
