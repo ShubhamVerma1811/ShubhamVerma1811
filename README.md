@@ -2,7 +2,7 @@
 
 ## A passionate self-taught Frontend Developer from India.
 
-- 💻 Currently I am Software Engineer - III at GeekyAnts
+- 💻 Currently I am Senior Software Engineer - I at GeekyAnts
 - 💬 Ask me about **JavaScript, React**
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I can solve Rubik's Cube in under 2 minutes 😎
