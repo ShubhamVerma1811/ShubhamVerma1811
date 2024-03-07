@@ -11,11 +11,11 @@
 ## **Recent Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Build literally anything](https://shubhamverma.me/blog/build-literally-anything)
 - [My Software Journey in 2024](https://shubhamverma.me/blog/my-software-journey-in-2024)
 - [My Tech Progress](https://shubhamverma.me/blog/my-tech-progress)
 - [Resizing Images in Markdown and using it in Next.JS with Image Component.](https://shubhamverma.me/blog/resizing-images-in-markdown-and-using-it-in-next-js-with-image-component)
 - [Server Side Rendering of Tailwind CSS styles in NextJS](https://shubhamverma.me/blog/server-side-rendering-of-tailwind-css-styles-in-next-js)
-- [Authentication and Protected Routes using Remix + Auth0 + Prisma](https://shubhamverma.me/blog/authentication-and-protected-routes-with-remix-auth-0-and-prisma)
 <!-- BLOG-POST-LIST:END -->
 
 
