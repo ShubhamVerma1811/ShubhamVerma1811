@@ -11,11 +11,11 @@
 ## **Recent Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [I tried to build a rate-limiter using Go and Redis](https://shubhamverma.me/blog/i-tried-to-build-a-rate-limiter-using-go-and-redis)
 - [Build literally anything](https://shubhamverma.me/blog/build-literally-anything)
 - [My Software Journey in 2024](https://shubhamverma.me/blog/my-software-journey-in-2024)
 - [My Tech Progress](https://shubhamverma.me/blog/my-tech-progress)
 - [Resizing Images in Markdown and using it in Next.JS with Image Component.](https://shubhamverma.me/blog/resizing-images-in-markdown-and-using-it-in-next-js-with-image-component)
-- [Server Side Rendering of Tailwind CSS styles in NextJS](https://shubhamverma.me/blog/server-side-rendering-of-tailwind-css-styles-in-next-js)
 <!-- BLOG-POST-LIST:END -->
 
 
