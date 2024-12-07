@@ -9,11 +9,11 @@
 ## **Recent Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [My Solutions for Advent of Code 2024](https://shubhamverma.me/blog/my-solutions-for-advent-of-code-2024)
 - [I tried to build a rate-limiter using Go and Redis](https://shubhamverma.me/blog/i-tried-to-build-a-rate-limiter-using-go-and-redis)
 - [Build literally anything](https://shubhamverma.me/blog/build-literally-anything)
 - [My Software Journey in 2024](https://shubhamverma.me/blog/my-software-journey-in-2024)
 - [My Tech Progress](https://shubhamverma.me/blog/my-tech-progress)
+- [Resizing Images in Markdown and using it in Next.JS with Image Component.](https://shubhamverma.me/blog/resizing-images-in-markdown-and-using-it-in-next-js-with-image-component)
 <!-- BLOG-POST-LIST:END -->
 
 
