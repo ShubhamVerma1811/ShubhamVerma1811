@@ -1,6 +1,6 @@
 # Hey there, I'm [Shubham Verma!](https://shubhamverma.me) 👋, a Software Engineer.
 
-- 💻 Currently I am Senior Software Engineer - I at GeekyAnts
+- 💻 Currently I am Senior Software Engineer - II at GeekyAnts
 - 💬 Ask me about **JavaScript, React**
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I can solve Rubik's Cube in under 2 minutes 😎
